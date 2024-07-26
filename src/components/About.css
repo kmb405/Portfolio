@@ -1,0 +1,17 @@
+/* src/components/About.css */
+.about {
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
